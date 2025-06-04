@@ -1,4 +1,4 @@
-Demo:
+Demo: https://lokeshloki3.github.io/check-palindrome/
 
 Tech Stack: HTML, CSS, JavaScript
 
