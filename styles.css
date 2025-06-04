@@ -59,3 +59,8 @@ body {
     margin-top: 20px;
     font-size: larger;
 }
+
+.heading {
+    text-align: center;
+    color: black;
+}
